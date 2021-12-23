@@ -11,3 +11,4 @@ MY TO-DO LIST
 9. Pratice chess openings.
 10. Solve chess puzzles.
 11. Check exam schedule.
+12. Read a book.
